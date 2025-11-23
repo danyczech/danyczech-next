@@ -1,4 +1,4 @@
-import type { Meta, StoryFn, StoryObj } from '@storybook/react';
+import type { Meta, StoryFn, StoryObj } from '@storybook/nextjs';
 import { EButtonVariants } from '@/utils/enums';
 import Button from '@/components/UI/Button/Button';
 
