@@ -13,4 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - LinkText
 - Storybook v8.5.2
 ### Changed
+- Next upgrade v16.0.4
+- Storybook upgrade v10.0.8
 - TailwindCSS upgrade v4
+- TailwindCSS upgrade v4.1
